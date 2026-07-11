@@ -161,9 +161,9 @@ Woodyard is fresh. 0 stars today. That's exactly the moment to get involved and 
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+GNU AGPL v3 — see [LICENSE](./LICENSE).
 
-Copyright 2026 blazin0115-Jake. Free to use, modify, and distribute.
+Copyright 2026 blazin0115-Jake. Free to use, modify, and distribute — any modified version running on a network must make its source code available to users.
 
 ---
 
